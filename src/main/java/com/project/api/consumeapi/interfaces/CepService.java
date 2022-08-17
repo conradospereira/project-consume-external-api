@@ -9,7 +9,7 @@ import com.project.api.consumeapi.model.Address;
 @FeignClient(url = "https://viacep.com.br/ws/" , name = "viacep")
 public interface CepService {
 
-    @GetMapping("{cep}/json")
+    @GetMapping("/{cep}/json")
 
     Address searchAddressByCep(@PathVariable("cep") String cep);
     
