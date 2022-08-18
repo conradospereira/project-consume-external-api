@@ -1,5 +1,5 @@
 [//]: <> (Título e imagem de capa)
-# Consumindo uma api externa usando Spring
+# :technologist: Consumindo uma api externa usando Spring
 
 
 [//]: <> (Badges)
@@ -12,24 +12,39 @@
 
 
 [//]: <> (Funcionalidades e demonstração da aplicação)
-## Funcionalidades e demonstração da aplicação:
+## ✔️ Funcionalidades e demonstração da aplicação:
 
-* A aplicação tem como funcionalidade principal informar um CEP e receber de volta um json informando endereço, bairro, uf e etc, como mostra na imagem a seguir:
+* A aplicação tem como funcionalidade principal algo bem simples: enviar um CEP e receber de volta um json informando endereço, bairro, uf e etc, como mostra no gif a seguir:
+
+![featuresViaCep](https://user-images.githubusercontent.com/101484294/185436422-0fa9f5e9-e418-401e-b107-a5456d586792.gif)
 
 
 [//]: <> (Funcionalidades do projeto)
+## ✔️ Funcionalidades do projeto:
 
+<br>
+:construction:  Em construção  :construction:
+<br>
 
 [//]: <> (Acesso ao projeto)
+## ✔️ Acesso ao projeto:
 
+<br>
+:construction:  Em construção  :construction:
+<br>
 
 [//]: <> (Tecnologias utilizadas)
+## ✔️ Tecnologias utilizadas:
+* Spring boot;
+* Lombok;
+* Open Feign;
+* Dev Tools;
+* H2 database;
+* Apacha Maven 3.6.3 e
+* Java 17.
 
 
 [//]: <> (Pessoas colaboradoras)
 
 
 [//]: <> (Pessoas desenvolvedoras do projeto)
-
-
-[//]: <> (Licença)
