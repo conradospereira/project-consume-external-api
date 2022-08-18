@@ -12,6 +12,9 @@
 
 
 [//]: <> (Funcionalidades e demonstração da aplicação)
+## Funcionalidades e demonstração da aplicação:
+
+* A aplicação tem como funcionalidade principal informar um CEP e receber de volta um json informando endereço, bairro, uf e etc, como mostra na imagem a seguir:
 
 
 [//]: <> (Funcionalidades do projeto)
