@@ -40,7 +40,8 @@
 * Open Feign;
 * Dev Tools;
 * H2 database;
-* Apacha Maven 3.6.3 e
+* Apacha Maven 3.6.3;
+* Spring Web;
 * Java 17.
 
 
